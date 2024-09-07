@@ -40,6 +40,9 @@ Historical stock price data for the project is sourced from Yahoo Finance (y-fin
 - R2 Score: 0.9920
 - Explained Variance Store: 0.9936
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/UjjawalGusain/Stock_Market_Prediction/blob/main/LICENSE) file for details.
+
 # Actual Close Price vs Predicted Close Price
 
 ![Predictions](https://github.com/user-attachments/assets/ec898e64-0cf2-4ec4-a11f-fa9c7e99c57b)
